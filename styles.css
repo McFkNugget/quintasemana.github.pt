@@ -126,6 +126,10 @@ p {
     height: auto;
 }
 
+#content2 img{
+    transform: scaleX(-1);
+}
+
 .text-left{
     text-align: left;
     margin: 20px;
